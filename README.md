@@ -1,2 +1,2 @@
 # Mysql_Mosh
-doing practice fo Mqsql
+doing practice fo Mysql
